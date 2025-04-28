@@ -76,3 +76,8 @@ void main() {
 OUTPUT :-
 
 ![image](https://github.com/user-attachments/assets/b56b161d-c3ee-42cb-a7c1-486effb161f5)
+
+
+RESULT :-
+
+The program is executed successfully
